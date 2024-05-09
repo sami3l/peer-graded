@@ -7,8 +7,4 @@
 \
 **Number of lines in guessinggame.sh:** 24
 
-**KUDOS!!!**
-
-**Warm Regards,**
-\
-**Piyush Sambhi**
+**samii!!!**
